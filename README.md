@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLastKookie
 - 👀 I’m interested in ... video games, anime, and music
-- 📫 How to reach me ... shimeab@stanford.edu
+- 📫 How to reach me ... shimeab@alumni.stanford.edu
 
 <!---
 TheLastKookie/TheLastKookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
